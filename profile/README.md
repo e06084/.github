@@ -19,4 +19,5 @@ Build AI-native engineering system with MigoXLab's tools.
 ## Benchmarks
 
 - [ScienceMetaBench](https://huggingface.co/datasets/opendatalab/ScienceMetaBench): A benchmark dataset for evaluating the accuracy of metadata extraction from scientific literature PDF files.
+- [WebMainBench](https://github.com/opendatalab/WebMainBench): WebMainBench is a specialized benchmark tool for end-to-end evaluation of web main content extraction quality.
 - [OmniDocBench](https://github.com/opendatalab/OmniDocBench): A Comprehensive Benchmark for Document Parsing and Evaluation.
